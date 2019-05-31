@@ -10,7 +10,7 @@
 (function() {
     'use strict';
     var url = document.URL.split('=');
-    if (url[1].includes('thepiratebay')){
+    if (!url[1].includes('thepiratebay')){
         location.replace(url[1]);
     }
 })();
