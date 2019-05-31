@@ -2,7 +2,7 @@
 // @name         TPB Redirect Remover
 // @namespace    https://github.com/jomut9/tpb-redirect-remover
 // @version      0.01
-// @description  try to take over the world!
+// @description  The Pirate Bay links redirect remover
 // @author       jomut9
 // @match        *://thepiratebay*.org/?url=*
 // ==/UserScript==
