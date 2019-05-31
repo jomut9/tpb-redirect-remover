@@ -12,5 +12,7 @@ To bypass redirect of link in The Pirate Bay and visit directly. For example:
 2. Download the tpb-redirect-remover.js here and install it with your userscript manager.
 3. Have fun!
 ## Changelog
-### 0.01(20190531)
+### 0.0.1(20190531)
 Initial release
+### 0.0.2(20190531)
+Include `thepiratebay.org` into the list
