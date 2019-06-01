@@ -9,7 +9,7 @@ To bypass redirect of link in The Pirate Bay and visit directly. For example:
    * [Greasemonkey](https://www.greasespot.net/) for Mozilla Firefox
    * [Tampermonkey](https://www.tampermonkey.net/) for almost every browser
    * [Violentmonkey](https://violentmonkey.github.io/) for almost every browser
-2. Download the tpb-redirect-remover.js here and install it with your userscript manager.
+2. Download the tpb-redirect-remover.user.js here and install it with your userscript manager.
 3. Have fun!
 ## Changelog
 ### 0.0.1(20190531)
